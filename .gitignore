@@ -19,3 +19,8 @@ __pycache__/
 
 # Logs
 *.log
+
+# Python package build artifacts
+*.egg-info/
+build/
+dist/
